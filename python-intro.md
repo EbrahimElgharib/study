@@ -11,6 +11,8 @@ https://www.python.org/downloads/
 
 
 
+![python-path-install.PNG](F:\Work\Django_Bootcamp\study\images\python-path-install-1678395370972-1.png)
+
 - Check-Version
 
   ```cmd
