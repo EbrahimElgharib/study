@@ -11,7 +11,9 @@ https://www.python.org/downloads/
 
 
 
-![python-path-install.PNG](F:\Work\Django_Bootcamp\study\images\python-path-install-1678395370972-1.png)
+<img src="./images/pexels-photo-268533.jpegcs=srgb&dl=pexels-pixabay-268533.jpeg" alt="Day Photos, Download The BEST Free Day Stock Photos & HD Images" style="zoom: 25%;" />
+
+
 
 - Check-Version
 
