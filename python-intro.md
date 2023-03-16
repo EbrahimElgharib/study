@@ -59,5 +59,6 @@ sudo dnf install python3
 
 # History of Python & Versions
 
+![12](./images/12.PNG)
 
-
+![](./images/How-to-Add-Python-to-Windows-Path-3.webp)
